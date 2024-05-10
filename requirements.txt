@@ -1,0 +1,25 @@
+# streamlit==1.21.0
+# numpy>=1.19.0
+# tensorflow>=2.5.0
+# keras==2.4.3
+# scikit-learn==0.24.1
+# pandas==1.2.4
+# matplotlib==3.4.1
+# plotly_express
+# streamlit-echarts
+# altair==4.1.0
+# paramiko==2.7.2
+# s3fs==2021.6.1
+
+streamlit==1.21.0
+numpy>=1.19.0
+tensorflow>=2.5.0  # Ensure this version is compatible with the keras version
+keras>=2.6.0       # Adjusted to be compatible with TensorFlow >=2.5.0
+scikit-learn==0.24.1
+pandas==1.2.4
+matplotlib==3.4.1
+plotly_express
+streamlit-echarts
+altair<5
+paramiko==2.7.2
+s3fs==2021.6.1
