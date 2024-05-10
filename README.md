@@ -16,7 +16,7 @@ The Network Intrusion Detection Workbench is an advanced system that combines ma
 
 ## Installation
 
-1. Clone the repository: ```git clone (https://github.com/shriya02-coder/Network-Anomaly-Detection-Workbench-with-Machine-Learning-and-Real-Time-Packet-Analysis.git)```
+1. Clone the repository: ```git clone https://github.com/shriya02-coder/Network-Anomaly-Detection-Workbench-with-Machine-Learning-and-Real-Time-Packet-Analysis.git```
 2. Install the required dependencies: ```pip install -r requirements.txt```
 
 
